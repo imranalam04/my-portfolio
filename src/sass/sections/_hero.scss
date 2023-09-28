@@ -14,7 +14,15 @@
   bottom: 0;
   right: 0;
   z-index: -1;
-
+  
+  #tsparticles {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+  }
   // Set position sticky so the jumbotron stays fixed while you scroll.
   // position: sticky;
 
